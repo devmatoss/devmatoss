@@ -1,13 +1,18 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=header"/>
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=38&center=true&vCenter=true&width=1000&lines=HELLO!,+MY+NAME+is+Raimundo+Matos;+am+from+Cascavel,+PR;I+am+Front-End+developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c7d412&size=38&center=true&vCenter=true&width=1000&lines=HELLO!,+MY+NAME+is+Raimundo+Matos;+am+from+Cascavel,+PR;I+am+Front-End+developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
 <div align="center">   
-   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=devmatoss&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=F4B400&text_color=fff&bg_color=ffffff00" alt="Raimundo Matos github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmatoss&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=ffffff00" />
+   <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=devmatoss&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=F4B400&text_color=fff&bg_color=ffffff00" alt="Raimundo Matos github stats" /> 
+  <img width="42%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmatoss&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=ffffff00" />
+  
+  
+  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=devmatoss&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmatoss&layout=compact&langs_count=7&theme=dark"/>
 </div>
- 
+
+
 ## 
  
 <div align="center">
